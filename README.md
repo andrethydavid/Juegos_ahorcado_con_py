@@ -8,3 +8,6 @@
 *Si la letra no se encuentra en la palabra, el programa dibujará una parte adicional del hombre ahorcado. Si el dibujo del hombre ahorcado se completa antes de que el jugador adivine la palabra, entonces el jugador pierde.
 
 >Para hacer el juego más interesante, se puede agregar un conjunto de palabras ocultas aleatorias y aumentar el número de intentos disponibles para el jugador. Además, se pueden agregar características adicionales como pistas, puntos y una clasificación para los jugadores que adivinen la palabra en menos intentos. En general, el juego del ahorcado en Python es una forma divertida de practicar la programación y la lógica, al mismo tiempo que ofrece un desafío divertido para los jugadores.
+
+
+![image](https://user-images.githubusercontent.com/72534486/219907975-288444b8-7e9d-4892-8366-02c17348ad22.png)
