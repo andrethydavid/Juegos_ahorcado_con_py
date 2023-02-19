@@ -10,3 +10,4 @@
 >Para hacer el juego más interesante, se puede agregar un conjunto de palabras ocultas aleatorias y aumentar el número de intentos disponibles para el jugador. Además, se pueden agregar características adicionales como pistas, puntos y una clasificación para los jugadores que adivinen la palabra en menos intentos. En general, el juego del ahorcado en Python es una forma divertida de practicar la programación y la lógica, al mismo tiempo que ofrece un desafío divertido para los jugadores.
 
 
+![image](https://user-images.githubusercontent.com/72534486/219908119-abecdc82-96af-4194-8164-dd05311c9660.png)  
